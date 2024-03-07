@@ -2,7 +2,7 @@
 <img src="https://github.com/NK2552003/NK2552003/blob/main/2.png" width="100%">
 <hr>
 <h2 align="center">A passionate full-Stack developer from Haryana,India</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nk2552003" alt="nk2552003"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nk2552003&theme=nord" alt="nk2552003"/></a> </p>
 <hr>
 - 🔭 I’m currently working on **attractive 3d website based on learning platform.**
 

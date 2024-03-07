@@ -1,7 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nk2552003&label=Profile%20views&color=0e75b6&style=flat" alt="nk2552003" /> </p>
-<h1 align="center">Hi 👋, I'm Nitish</h1>
+<img src="https://github.com/NK2552003/NK2552003/blob/main/2.png" width="100%">
 <h3 align="center">A passionate full-Stack developer from Haryana,India</h3>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nk2552003" alt="nk2552003"/></a> </p>
 

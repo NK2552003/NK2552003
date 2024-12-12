@@ -63,5 +63,3 @@
 </p>
 <br>
 
-
-render the content and make it look more attractive and appealing my adding transitions and other shapes and backgound shapes with blurry effect

@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -155,8 +149,6 @@
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
     }
   </style>
-</head>
-<body>
 
 <header>
   <img src="https://komarev.com/ghpvc/?username=nk2552003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -226,6 +218,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="80%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical" alt="GitHub Streak" width="80%">
 </div>
-
-</body>
-</html>

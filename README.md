@@ -1,43 +1,67 @@
-# 👨‍💻 A Passionate Full-Stack Developer from Haryana, India 👨‍💻
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nk2552003&label=Profile%20views&color=0e75b6&style=flat" alt="nk2552003" />
+</p>
 
----
+<img src="https://github.com/NK2552003/NK2552003/blob/main/2.png" width="100%">
+<hr>
+<h2 align="center">👨‍💻 A Passionate Full-Stack Developer from Haryana, India 👨‍💻</h2>
 
-## 🔭 Current Work
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nk2552003&theme=radical&margin-w=15&margin-h=15" alt="nk2552003"/>
+  </a>
+</p>
+<hr>
 
-- **Working on:** An attractive 3D website based on a learning platform.
+<ul>
+  <li>🔭 I’m currently working on an <strong>attractive 3D website based on a learning platform.</strong></li>
+  <li>🌱 I’m currently learning <strong>Dart, Flutter, Java, Rust</strong>.</li>
+  <li>👯 I’m looking to collaborate on <strong>Front-End Projects.</strong></li>
+  <li>🤝 I’m seeking guidance on <strong>Back-End Projects and APIs.</strong></li>
+  <li>👨‍💻 Check out my projects: <a href="#">"Coming Soon"</a></li>
+  <li>📝 I regularly write about <a href="#">"Open-source Enthusiasm"</a>.</li>
+  <li>💬 Ask me about <strong>C, C++, Dart, Flutter, Python, HTML, CSS, PHP, MySQL, JavaScript, React.</strong></li>
+  <li>📫 Reach me at: <a href="mailto:sid.kr.222003@gmail.com">sid.kr.222003@gmail.com</a></li>
+  <li>📄 Learn about my experiences: <a href="#">"Working on it"</a></li>
+  <li>⚡ Fun fact: <strong>I love exploring new technologies and languages!</strong></li>
+</ul>
+<hr>
 
-## 🌱 Currently Learning
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/nitish-kumar-69302b226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/nk222003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/nitish.2432" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://dribbble.com/nk2552003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
+  <a href="https://www.behance.net/nitishkumar444" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
+</p>
+<hr>
 
-- **Languages and Technologies:** Dart, Flutter, Java, Rust.
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+</p>
+<hr>
 
-## 🤝 Collaborations
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical" alt="nk2552003" width="100%"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical" alt="nk2552003" width="100%"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical" alt="nk2552003" width="100%"/>
+</p>
+<br>
 
-- Looking to collaborate on **Front-End Projects**.
-- Seeking guidance on **Back-End Projects and APIs**.
 
-## 💬 Expertise
-
-- **Programming Skills:** C, C++, Dart, Flutter, Python, HTML, CSS, PHP, MySQL, JavaScript, React.
-
-## 📫 Contact
-
-- Email: [sid.kr.222003@gmail.com](mailto:sid.kr.222003@gmail.com)
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/nitish-kumar-69302b226)
-- [Facebook](https://fb.com/nk222003)
-- [Instagram](https://instagram.com/nitish.2432)
-- [Dribbble](https://dribbble.com/nk2552003)
-- [Behance](https://www.behance.net/nitishkumar444)
-
-## 🛠️ Languages and Tools
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical)
-
+render the content and make it look more attractive and appealing my adding transitions and other shapes and backgound shapes with blurry effect

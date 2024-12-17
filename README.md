@@ -14,16 +14,16 @@
 <hr>
 
 <ul>
-  <li>🔭 I’m currently working on an <strong>attractive 3D website based on a learning platform.</strong></li>
-  <li>🌱 I’m currently learning <strong>Dart, Flutter, Java, Rust</strong>.</li>
-  <li>👯 I’m looking to collaborate on <strong>Front-End Projects.</strong></li>
-  <li>🤝 I’m seeking guidance on <strong>Back-End Projects and APIs.</strong></li>
-  <li>👨‍💻 Check out my projects: <a href="#">"Coming Soon"</a></li>
-  <li>📝 I regularly write about <a href="#">"Open-source Enthusiasm"</a>.</li>
-  <li>💬 Ask me about <strong>C, C++, Dart, Flutter, Python, HTML, CSS, PHP, MySQL, JavaScript, React.</strong></li>
-  <li>📫 Reach me at: <a href="mailto:sid.kr.222003@gmail.com">sid.kr.222003@gmail.com</a></li>
-  <li>📄 Learn about my experiences: <a href="#">"Working on it"</a></li>
-  <li>⚡ Fun fact: <strong>I love exploring new technologies and languages!</strong></li>
+  <li>🔭 I’m developing an <strong>interactive 3D website for a learning platform using Three.js and advanced web techniques.</strong></li>
+  <li>🌱 I’m enhancing my skills in <strong>Dart, Flutter, Java, and Rust to create efficient and robust applications.</strong></li>
+  <li>👯 I’m eager to collaborate on <strong>creative Front-End Development projects with a focus on modern designs and functionality.</strong></li>
+  <li>🤝 I’m looking for mentorship and collaboration opportunities in <strong>Back-End Development and API design.</strong></li>
+  <li>👨‍💻 My projects will be available soon: <a href="#">"Stay Tuned!"</a></li>
+  <li>📝 I write about <a href="#">"Open-Source Contributions and Web Development Trends."</a></li>
+  <li>💬 Feel free to ask me about <strong>programming and development with C, C++, Dart, Flutter, Python, HTML, CSS, PHP, MySQL, JavaScript, React, and GSAP.</strong></li>
+  <li>📫 Contact me via email: <a href="mailto:sid.kr.222003@gmail.com">sid.kr.222003@gmail.com</a>.</li>
+  <li>📄 My work experience highlights will be shared soon: <a href="#">"Under Construction"</a>.</li>
+  <li>⚡ Fun fact: <strong>I’m always exploring new technologies and love solving real-world problems through code!</strong></li>
 </ul>
 <hr>
 

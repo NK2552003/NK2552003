@@ -22,7 +22,6 @@
   <li>📝 I write about <a href="#">"Open-Source Contributions and Web Development Trends."</a></li>
   <li>💬 Feel free to ask me about <strong>programming and development with C, C++, Dart, Flutter, Python, HTML, CSS, PHP, MySQL, JavaScript, React, and GSAP.</strong></li>
   <li>📫 Contact me via email: <a href="mailto:sid.kr.222003@gmail.com">sid.kr.222003@gmail.com</a>.</li>
-  <li>📄 My work experience highlights will be shared soon: <a href="#">"Under Construction"</a>.</li>
   <li>⚡ Fun fact: <strong>I’m always exploring new technologies and love solving real-world problems through code!</strong></li>
 </ul>
 <hr>

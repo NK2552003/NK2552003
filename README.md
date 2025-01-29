@@ -61,7 +61,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical" alt="nk2552003" width="100%"/>
 </p>
 <br>
-
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nk2552003)
-

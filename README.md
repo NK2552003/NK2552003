@@ -52,9 +52,9 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;gap:4px;width:100%;align-items:center;text-align:center;">
-    <img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical" alt="nk2552003"/>
-  <img style="height:150px;" align="center" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical" alt="nk2552003"/>
-    <img align="center" style="height:150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical" alt="nk2552003"/>
+    <img align="center" style="height:150px;width:28%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical" alt="nk2552003"/>
+  <img style="height:150px;width:36%;" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical" alt="nk2552003"/>
+    <img align="center" style="height:150px;width:36%;" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical" alt="nk2552003"/>
 </div>
 
 <br>

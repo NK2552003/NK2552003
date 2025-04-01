@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=nk2552003&label=Profile%20views&color=0e75b6&style=flat" alt="nk2552003" />
 </p>
 
-<img src="https://github.com/NK2552003/NK2552003/blob/main/2.png" width="100%">
 <hr>
 <h2 align="center">👨‍💻 A Passionate Full-Stack Developer from Haryana, India 👨‍💻</h2>
 

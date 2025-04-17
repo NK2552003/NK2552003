@@ -1,7 +1,6 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nk2552003&label=Profile%20views&color=0e75b6&style=flat" alt="nk2552003" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nk2552003&theme=flat&row=2&column=4" alt="GitHub Trophies" />
 </p>
-
 <hr>
 <h2 align="center">👨‍💻 A Passionate Full-Stack Developer from Haryana, India 👨‍💻</h2>
 

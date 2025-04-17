@@ -7,18 +7,53 @@
   </a>
 </p>
 <hr>
+<div style="max-width: 700px; margin: 40px auto; background: white; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); padding: 30px 40px; font-family: 'Segoe UI', sans-serif; line-height: 1.8; background-color: #fefefe;">
+  <h2 style="margin-bottom: 20px; font-size: 28px; color: #333;">🚀 About Me</h2>
 
-<ul>
-  <li>🔭 I’m developing an <strong>interactive 3D website for a learning platform using Three.js and advanced web techniques.</strong></li>
-  <li>🌱 I’m enhancing my skills in <strong>Dart, Flutter, Java, and Rust to create efficient and robust applications.</strong></li>
-  <li>👯 I’m eager to collaborate on <strong>creative Front-End Development projects with a focus on modern designs and functionality.</strong></li>
-  <li>🤝 I’m looking for mentorship and collaboration opportunities in <strong>Back-End Development and API design.</strong></li>
-  <li>👨‍💻 My projects will be available soon: <a href="#">"Stay Tuned!"</a></li>
-  <li>📝 I write about <a href="#">"Open-Source Contributions and Web Development Trends."</a></li>
-  <li>💬 Feel free to ask me about <strong>programming and development with C, C++, Dart, Flutter, Python, HTML, CSS, PHP, MySQL, JavaScript, React, and GSAP.</strong></li>
-  <li>📫 Contact me via email: <a href="mailto:sid.kr.222003@gmail.com">sid.kr.222003@gmail.com</a>.</li>
-  <li>⚡ Fun fact: <strong>I’m always exploring new technologies and love solving real-world problems through code!</strong></li>
-</ul>
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">🔭</span>
+    Building an <strong style="color: #2d2d2d;">interactive 3D learning platform</strong> with <strong style="color: #2d2d2d;">Three.js</strong> and modern web tech.
+  </div>
+
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">🌱</span>
+    Leveling up in <strong style="color: #2d2d2d;">Dart, Flutter, Java, and Rust</strong> to craft efficient apps.
+  </div>
+
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">👯</span>
+    Love collaborating on <strong style="color: #2d2d2d;">creative Front-End projects</strong> with sleek design & smooth UX.
+  </div>
+
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">🤝</span>
+    Open to <strong style="color: #2d2d2d;">Back-End/API</strong> mentorships & team-ups.
+  </div>
+
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">📝</span>
+    I write about <strong style="color: #2d2d2d;">open-source & web dev trends</strong> — 
+    <a href="#" style="color: #1e90ff; text-decoration: none;">stay tuned!</a>
+  </div>
+
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">💬</span>
+    Ask me about: 
+    <strong style="color: #2d2d2d;">C, C++, Dart, Flutter, Python, HTML/CSS, PHP, MySQL, JS, React, GSAP</strong>.
+  </div>
+
+  <div style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">📫</span>
+    Reach out: 
+    <a href="mailto:sid.kr.222003@gmail.com" style="color: #1e90ff; text-decoration: none;">sid.kr.222003@gmail.com</a>
+  </div>
+
+  <div style="margin-bottom: 0; font-size: 16px; display: flex; align-items: flex-start;">
+    <span style="font-size: 20px; margin-right: 12px;">⚡</span>
+    Fun fact: I’m always chasing <strong style="color: #2d2d2d;">new tech</strong> & <strong style="color: #2d2d2d;">real-world challenges</strong>!
+  </div>
+</div>
+
 <hr>
 
 <h3 align="left">🌐 Connect with me:</h3>

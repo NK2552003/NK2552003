@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nk2552003&theme=flat&row=2&column=4" alt="GitHub Trophies" />
-</p>
 <hr>
 <h2 align="center">👨‍💻 A Passionate Full-Stack Developer from Haryana, India 👨‍💻</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nk2552003&theme=radical&margin-w=15&margin-h=15" alt="nk2552003"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nk2552003&theme=radical&margin-w=15&margin-h=15&row=1&column=8" alt="nk2552003"/>
   </a>
 </p>
 <hr>

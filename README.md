@@ -108,3 +108,29 @@
 
 <br>
 
+## TASK TO DO THIS WEEK
+
+### AI ROADMAP GENERATOR COMPONENT IN TATTVA APPLICATION
+
+---
+- [x] Define prompt format and examples
+- [x] Create GPT prompt to generate JSON-based tree structure
+- [x] Transform response to `React Flow` compatible nodes and edges
+- [x] Implement roadmap viewer/editor with zoom/pan
+- [ ] Add save, share, and public visibility toggle
+- [ ] Add roadmap version history (optional)
+- [x] Create the `FAQ section` displaying the questions related to the projects (10-12 questions at least)
+- [x] Create the `Projects` section displaying at least 7 projects
+- [x] On clicking any project card display the modal showind the `detailed description`,`skill required`, `tools used`,` outcomes`, `folder structure`
+- [x] Display the card showing the `Courses` from different platforms `title`, `description`,`duration`,`link`
+- [x] Make it responsive
+
+- [ ] Create modal component with props for `title`, `description`, `resources`, etc.
+- [x] Add state or context to track selected node
+- [x] Trigger modal open on node click in React Flow
+- [ ] Fetch or map resource data based on node ID or label
+- [ ] Make modal fully responsive (Tailwind CSS or CSS Modules)
+- [x] Add close button and animations
+- [ ] Optional: Add bookmarking, completion toggle
+
+---

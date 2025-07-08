@@ -124,7 +124,7 @@
 - [x] On clicking any project card display the modal showind the `detailed description`,`skill required`, `tools used`,` outcomes`, `folder structure`
 - [x] Display the card showing the `Courses` from different platforms `title`, `description`,`duration`,`link`
 - [x] Make it responsive
-
+- [x] add the loading animation jsut like the deployment process on github
 - [ ] Create modal component with props for `title`, `description`, `resources`, etc.
 - [x] add the prototype generator for each `project` simploe plane and attractive.
 - [x] Add state or context to track selected node

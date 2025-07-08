@@ -126,6 +126,7 @@
 - [x] Make it responsive
 
 - [ ] Create modal component with props for `title`, `description`, `resources`, etc.
+- [x] add the prototype generator for each `project` simploe plane and attractive.
 - [x] Add state or context to track selected node
 - [x] Trigger modal open on node click in React Flow
 - [ ] Fetch or map resource data based on node ID or label

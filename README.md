@@ -117,7 +117,8 @@
 - [x] Create GPT prompt to generate JSON-based tree structure
 - [x] Transform response to `React Flow` compatible nodes and edges
 - [x] Implement roadmap viewer/editor with zoom/pan
-- [ ] Add save, share, and public visibility toggle
+- [x] Add a public visibility toggle
+- [ ] Add save, share option
 - [ ] Add roadmap version history (optional)
 - [x] Create the `FAQ section` displaying the questions related to the projects (10-12 questions at least)
 - [x] Create the `Projects` section displaying at least 7 projects
@@ -125,12 +126,12 @@
 - [x] Display the card showing the `Courses` from different platforms `title`, `description`,`duration`,`link`
 - [x] Make it responsive
 - [x] add the loading animation just like the deployment process on github
-- [ ] Create modal component with props for `title`, `description`, `resources`, etc.
+- [x] Create modal component with props for `title`, `description`, `resources`, etc.
 - [x] add the prototype generator for each `project` simploe plane and attractive.
 - [x] Add state or context to track selected node
 - [x] Trigger modal open on node click in React Flow
-- [ ] Fetch or map resource data based on node ID or label
-- [ ] Make modal fully responsive (Tailwind CSS or CSS Modules)
+- [x] Fetch or map resource data based on node ID or label
+- [x] Make modal fully responsive (Tailwind CSS or CSS Modules)
 - [x] Add close button and animations
 - [ ] Optional: Add bookmarking, completion toggle
 

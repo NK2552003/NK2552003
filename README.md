@@ -134,5 +134,7 @@
 - [x] Make modal fully responsive (Tailwind CSS or CSS Modules)
 - [x] Add close button and animations
 - [ ] Optional: Add bookmarking, completion toggle
+- [x] Added the Public and Private section in the main 'roadmap' page
+- [x] create the responsive card `reusable` component that will display the `owner`, `save button`, `title`,`short description`,`formdata(skillLevel,duration,difficultyLevel, approach)`,`explore button `,`download button`, `share button`.
 
 ---

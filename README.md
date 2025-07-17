@@ -108,33 +108,33 @@
 
 <br>
 
-## TASK TO DO THIS WEEK
+## ✅ TASK TO DO THIS WEEK  
 
-### AI ROADMAP GENERATOR COMPONENT IN TATTVA APPLICATION
-
----
-- [x] Define prompt format and examples
-- [x] Create GPT prompt to generate JSON-based tree structure
-- [x] Transform response to `React Flow` compatible nodes and edges
-- [x] Implement roadmap viewer/editor with zoom/pan
-- [x] Add a public visibility toggle
-- [ ] Add save, share option
-- [ ] Add roadmap version history (optional)
-- [x] Create the `FAQ section` displaying the questions related to the projects (10-12 questions at least)
-- [x] Create the `Projects` section displaying at least 7 projects
-- [x] On clicking any project card display the modal showind the `detailed description`,`skill required`, `tools used`,` outcomes`, `folder structure`
-- [x] Display the card showing the `Courses` from different platforms `title`, `description`,`duration`,`link`
-- [x] Make it responsive
-- [x] add the loading animation just like the deployment process on github
-- [x] Create modal component with props for `title`, `description`, `resources`, etc.
-- [x] add the prototype generator for each `project` simploe plane and attractive.
-- [x] Add state or context to track selected node
-- [x] Trigger modal open on node click in React Flow
-- [x] Fetch or map resource data based on node ID or label
-- [x] Make modal fully responsive (Tailwind CSS or CSS Modules)
-- [x] Add close button and animations
-- [ ] Optional: Add bookmarking, completion toggle
-- [x] Added the Public and Private section in the main 'roadmap' page
-- [x] create the responsive card `reusable` component that will display the `owner`, `save button`, `title`,`short description`,`formdata(skillLevel,duration,difficultyLevel, approach)`,`explore button `,`download button`, `share button`.
+### 🚀 AI ROADMAP GENERATOR + CS BOOKS & COURSES COMPONENT – TATTVA APPLICATION  
 
 ---
+
+### 🧠 AI Roadmap Generator Enhancements
+- [ ] Add **Save and Share Options** for generated roadmaps  
+- [ ] Implement **Roadmap Version History** *(optional)*  
+- [ ] Add **Bookmarking and Completion Toggle** for roadmap nodes  
+- [x] Improve UI/UX for **Public & Private roadmap sections**  
+- [ ] Finalize and polish **Explore / Download / Share** button features  
+- [x] Complete testing of **modal logic and resource fetching**  
+- [x] Optimize performance for **large or nested roadmaps**  
+- [ ] Add light **user documentation or onboarding hints** in UI  
+
+---
+
+### 📚 CS Books & Courses Section (New Feature)
+- [ ] Collect and curate **top Computer Science books** (PDF links or summaries)  
+- [ ] Collect **high-quality courses** from platforms like Coursera, Udemy, NPTEL, YouTube  
+- [ ] Design a clean, scrollable **UI component to display courses & books**  
+- [ ] Add filters by **topic**, **level**, and **duration**  
+- [ ] Add **external link buttons** for course/book access  
+- [ ] Add **"Add to My Learning"** button to let users save them  
+- [ ] Make it fully **responsive across devices**  
+- [ ] Connect to **backend (Supabase or other)** if storing user progress or bookmarks  
+
+---
+

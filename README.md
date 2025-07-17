@@ -127,8 +127,8 @@
 ---
 
 ### 📚 CS Books & Courses Section (New Feature)
-- [ ] Collect and curate **top Computer Science books** (PDF links or summaries)  
-- [ ] Collect **high-quality courses** from platforms like Coursera, Udemy, NPTEL, YouTube  
+- [x] Collect and curate **top Computer Science books** (PDF links or summaries) in JSON format
+- [x] Collect **high-quality courses** from platforms like Coursera, Udemy, NPTEL, YouTube in JSON format
 - [ ] Design a clean, scrollable **UI component to display courses & books**  
 - [ ] Add filters by **topic**, **level**, and **duration**  
 - [ ] Add **external link buttons** for course/book access  

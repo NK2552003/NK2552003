@@ -138,3 +138,166 @@
 
 ---
 
+<div align="center">
+  <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="spaceGradient" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0a0a23;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </radialGradient>
+    <radialGradient id="planetGradient" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#4ecdc4;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#45b7d1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#96ceb4;stop-opacity:1" />
+    </radialGradient>
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+    </radialGradient>
+    <linearGradient id="repoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff9a9e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fecfef;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="commitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a8edea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fed6e3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd89b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#19547b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="followerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <animateTransform id="planetRotate" attributeName="transform" type="rotate" values="0 400 200;360 400 200" dur="20s" repeatCount="indefinite"/>
+    <animateTransform id="orbitRotate" attributeName="transform" type="rotate" values="0 400 200;360 400 200" dur="15s" repeatCount="indefinite"/>
+    <animate id="planetPulse" attributeName="r" values="35;45;35" dur="4s" repeatCount="indefinite"/>
+    <animate id="starTwinkle" attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </defs>
+  <rect width="800" height="400" fill="url(#spaceGradient)"/>
+  <g opacity="0.8">
+    <circle cx="50" cy="50" r="1" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="80" r="1.5" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="250" cy="40" r="1" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="70" r="1.2" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="50" r="1" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="90" r="1.3" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="60" r="1.1" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="80" r="1" fill="url(#starGlow)">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="150" r="0.8" fill="white" opacity="0.6"/>
+    <circle cx="180" cy="180" r="1" fill="white" opacity="0.7"/>
+    <circle cx="280" cy="120" r="0.9" fill="white" opacity="0.5"/>
+    <circle cx="480" cy="160" r="1.1" fill="white" opacity="0.8"/>
+    <circle cx="580" cy="140" r="0.7" fill="white" opacity="0.6"/>
+    <circle cx="680" cy="170" r="1" fill="white" opacity="0.7"/>
+    <circle cx="70" cy="250" r="1" fill="white" opacity="0.5"/>
+    <circle cx="170" cy="280" r="0.8" fill="white" opacity="0.7"/>
+    <circle cx="270" cy="320" r="1.2" fill="white" opacity="0.6"/>
+    <circle cx="470" cy="290" r="0.9" fill="white" opacity="0.8"/>
+    <circle cx="570" cy="340" r="1" fill="white" opacity="0.5"/>
+    <circle cx="670" cy="310" r="1.1" fill="white" opacity="0.7"/>
+    <circle cx="720" cy="280" r="0.8" fill="white" opacity="0.6"/>
+  </g>
+  <g stroke="rgba(255,255,255,0.1)" stroke-width="1" fill="none">
+    <circle cx="400" cy="200" r="80" opacity="0.3">
+      <animateTransform attributeName="transform" type="rotate" values="0 400 200;360 400 200" dur="25s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="120" opacity="0.2">
+      <animateTransform attributeName="transform" type="rotate" values="0 400 200;-360 400 200" dur="30s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="160" opacity="0.15">
+      <animateTransform attributeName="transform" type="rotate" values="0 400 200;360 400 200" dur="35s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <circle cx="400" cy="200" r="40" fill="url(#planetGradient)" opacity="0.9">
+      <animate attributeName="r" values="38;45;38" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 400 200;360 400 200" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="25" fill="rgba(255,255,255,0.3)">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="400" y="210" text-anchor="middle" font-size="24" fill="white" opacity="0.9">⚡</text>
+  </g>
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 400 200;360 400 200" dur="15s" repeatCount="indefinite"/>
+      <circle cx="400" cy="120" r="12" fill="url(#repoGrad)" opacity="0.9"/>
+      <text x="400" y="127" text-anchor="middle" font-size="12" fill="white" font-weight="bold">📦</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="90 400 200;450 400 200" dur="18s" repeatCount="indefinite"/>
+      <circle cx="520" cy="200" r="12" fill="url(#commitGrad)" opacity="0.9"/>
+      <text x="520" y="207" text-anchor="middle" font-size="12" fill="white" font-weight="bold">💻</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="180 400 200;540 400 200" dur="20s" repeatCount="indefinite"/>
+      <circle cx="400" cy="280" r="12" fill="url(#starGrad)" opacity="0.9"/>
+      <text x="400" y="287" text-anchor="middle" font-size="12" fill="white" font-weight="bold">⭐</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="270 400 200;630 400 200" dur="22s" repeatCount="indefinite"/>
+      <circle cx="280" cy="200" r="12" fill="url(#followerGrad)" opacity="0.9"/>
+      <text x="280" y="207" text-anchor="middle" font-size="12" fill="white" font-weight="bold">👥</text>
+    </g>
+  </g>
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="rgba(0,0,0,0.8)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="100" y="20" text-anchor="middle" font-size="14" fill="#4ecdc4" font-weight="bold">🌌 GitHub Stats</text>
+    <text x="10" y="40" font-size="11" fill="white">📦 Repositories:</text>
+    <text x="140" y="40" font-size="11" fill="#ff9a9e" font-weight="bold">42</text>
+    <text x="10" y="55" font-size="11" fill="white">💻 Commits:</text>
+    <text x="140" y="55" font-size="11" fill="#a8edea" font-weight="bold">1.2k</text>
+    <text x="10" y="70" font-size="11" fill="white">⭐ Stars:</text>
+    <text x="140" y="70" font-size="11" fill="#ffd89b" font-weight="bold">156</text>
+    <text x="10" y="85" font-size="11" fill="white">👥 Followers:</text>
+    <text x="140" y="85" font-size="11" fill="#667eea" font-weight="bold">89</text>
+    <text x="10" y="100" font-size="11" fill="white">🚀 Active since:</text>
+    <text x="140" y="100" font-size="11" fill="#96ceb4" font-weight="bold">2020</text>
+  </g>
+  <g transform="translate(580, 20)">
+    <rect x="0" y="0" width="200" height="80" rx="10" fill="rgba(0,0,0,0.7)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="100" y="18" text-anchor="middle" font-size="12" fill="#4ecdc4" font-weight="bold">🛸 Constellation Map</text>
+    <circle cx="15" cy="35" r="4" fill="url(#repoGrad)"/>
+    <text x="25" y="39" font-size="10" fill="white">Repositories</text>
+    <circle cx="15" cy="50" r="4" fill="url(#commitGrad)"/>
+    <text x="25" y="54" font-size="10" fill="white">Commit Activity</text>
+    <circle cx="120" cy="35" r="4" fill="url(#starGrad)"/>
+    <text x="130" y="39" font-size="10" fill="white">Stars Earned</text>
+    <circle cx="120" cy="50" r="4" fill="url(#followerGrad)"/>
+    <text x="130" y="54" font-size="10" fill="white">Community</text>
+  </g>
+  <g opacity="0.4">
+    <circle cx="100" cy="300" r="1" fill="white">
+      <animate attributeName="cy" values="400;-20" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="15s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="350" r="0.8" fill="white">
+      <animate attributeName="cy" values="400;-20" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="320" r="1.2" fill="white">
+      <animate attributeName="cy" values="400;-20" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
+</div>

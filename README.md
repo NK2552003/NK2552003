@@ -129,11 +129,11 @@
 ### 📚 CS Books & Courses Section (New Feature)
 - [x] Collect and curate **top Computer Science books** (PDF links or summaries) in JSON format
 - [x] Collect **high-quality courses** from platforms like Coursera, Udemy, NPTEL, YouTube in JSON format
-- [ ] Design a clean, scrollable **UI component to display courses & books**  
-- [ ] Add filters by **topic**, **level**, and **duration**  
-- [ ] Add **external link buttons** for course/book access  
+- [x] Design a clean, scrollable **UI component to display courses & books**  
+- [x] Add filters by **topic**, **level**, and **duration**  
+- [x] Add **external link buttons** for course/book access  
 - [ ] Add **"Add to My Learning"** button to let users save them  
-- [ ] Make it fully **responsive across devices**  
-- [ ] Connect to **backend (Supabase or other)** if storing user progress or bookmarks  
+- [x] Make it fully **responsive across devices**  
+- [x] Connect to **backend (Supabase or other)** if storing user progress or bookmarks  
 
 ---

@@ -137,3 +137,48 @@
 - [x] Connect to **backend (Supabase or other)** if storing user progress or bookmarks  
 
 ---
+
+# ✅ AI Course Interface – Task List
+
+## 📦 Core Functionality
+- [x] Extract `url` and `title` from query params using `useSearchParams()`
+- [x] Fetch course details from Supabase (`CourseData` table)
+- [x] Insert URL if not already present in Supabase
+- [x] Trigger Inngest function to fetch course content if not found
+- [x] Poll Supabase every 3s to check for `aiResp` and `courseDetails`
+- [x] Update React state with `aiResp` and `courseDetails` when available
+
+## 💬 AI Chat System
+- [x] Initialize AI chat with system message (`Ask anything about the course`)
+- [x] Append user input and show temporary `"..."` while waiting
+- [x] Call `/api/ai-chat` with message history, title, and url
+- [x] Poll `/api/get-inngest-status` to get AI response by `runId`
+- [x] Replace `"..."` with actual assistant response
+- [x] Handle errors during polling or response fetch gracefully
+
+## 📥 Course Utilities
+- [x] 📋 Copy full course content to clipboard
+- [x] 📄 Download course content as `.txt` file
+- [x] 🔗 Share course summary using Web Share API (fallback to copy)
+
+## 🧩 Component Integration
+- [x] Render `LeftPanel` with video content and `courseDetails`
+- [x] Render `RightPanel` with:
+  - [x] Tabs (summary, chat)
+  - [x] Course summary content
+  - [x] AI chat thread + input
+  - [x] Copy / Download / Share buttons
+  - [x] `syllabus` prop passed down for topic rendering
+
+## 🎛️ State Management
+- [x] `loading` and `error` flags for Supabase fetch
+- [x] `aiChatLoading` and `aiChatError` for AI interaction
+- [x] Store and update chat `messages` state
+- [x] `activeTab` to switch between views
+
+## 🧹 Cleanup & Resilience
+- [x] Clear polling interval on component unmount
+- [x] Prevent duplicate fetch triggers using `fetchTriggeredRef`
+- [x] Handle duplicate key (unique constraint) error on Supabase insert
+- [x] Prevent re-fetching if `aiResp` already exists
+

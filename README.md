@@ -71,11 +71,32 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 
 ## GitHub Stats:
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;gap:10;">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical" alt="nk2552003"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical" alt="nk2552003"/>
-    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical" alt="nk2552003"/>
-</div>
+<p align="center">
+<p align="center">
+  <a href="https://github.com/nk2552003">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical&bg_color=00000000&card_width=450&border_radius=12"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=default&card_width=450&border_radius=12"/>
+      <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical&bg_color=00000000&card_width=450&border_radius=12" alt="nk2552003"/>
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&langs_count=8&card_width=450&border_radius=12"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=default&langs_count=8&card_width=450&border_radius=12"/>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&langs_count=8&card_width=450&border_radius=12" alt="nk2552003"/>
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nk2552003">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical&background=00000000&border_radius=12"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=default&border_radius=12"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical&background=00000000&border_radius=12" alt="nk2552003"/>
+    </picture>
+  </a>
+</p>
+
 
 <br>
 

@@ -94,7 +94,11 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
     </picture>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/nk2552003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&hide_border=true&area=true" width="100%">
+  </a>
+</p>
 
 <br>
 

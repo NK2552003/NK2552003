@@ -70,7 +70,6 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 ## GitHub Stats:
 
 <p align="center">
-<p align="center">
   <a href="https://github.com/nk2552003">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical&bg_color=00000000&card_width=450&border_radius=12"/>
@@ -88,18 +87,25 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 <p align="center">
   <a href="https://github.com/nk2552003">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical&background=00000000&border_radius=12"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=default&border_radius=12"/>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nk2552003&theme=radical&background=00000000&border_radius=12" alt="nk2552003"/>
+      <!-- Dark mode -->
+      <source 
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&bg_color=00000000&hide_border=true&area=true&radius=12"
+      />
+      <!-- Light mode -->
+      <source 
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=default&hide_border=true&area=true&radius=12"
+      />
+      <!-- Default fallback -->
+      <img 
+        width="100%" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&bg_color=00000000&hide_border=true&area=true&radius=12" 
+        alt="Contribution Graph"
+      />
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/nk2552003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&hide_border=true&area=true" width="100%">
-  </a>
-</p>
-
 <br>
 
 

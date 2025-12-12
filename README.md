@@ -104,29 +104,5 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/nk2552003">
-    <picture>
-      <!-- Dark mode -->
-      <source 
-        media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com?user=nk2552003&theme=radical&background=00000000&border_radius=12"
-      />
-      <!-- Light mode -->
-      <source 
-        media="(prefers-color-scheme: light)"
-        srcset="https://streak-stats.demolab.com?user=nk2552003&theme=default&border_radius=12"
-      />
-      <!-- Default fallback -->
-      <img 
-        width="100%" 
-        src="https://streak-stats.demolab.com?user=nk2552003&theme=radical&background=00000000&border_radius=12"
-        alt="GitHub Streak"
-      />
-    </picture>
-  </a>
-</p>
 
-<br>
-
-
+![Metrics](https://metrics.lecoq.io/nk2552003?template=classic&config.timezone=Asia%2FKolkata&habits=1&habits.from=200&base.indepth=true)

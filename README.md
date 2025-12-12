@@ -69,9 +69,8 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## GitHub Stats:
 
-
-<h3 align="center">📊 GitHub Stats:</h3>
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;gap:10;">
     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical" alt="nk2552003"/>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical" alt="nk2552003"/>

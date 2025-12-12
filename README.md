@@ -5,8 +5,6 @@
 ![Stars](https://img.shields.io/github/stars/NK2552003?style=flat-square&color=FF6B6B)
 </div>
 
----
-
 <div align="center">
 
 <!-- Header -->

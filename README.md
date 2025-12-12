@@ -104,5 +104,3 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
     </picture>
   </a>
 </p>
-
-![Metrics](https://metrics.lecoq.io/nk2552003?template=classic&config.timezone=Asia%2FKolkata&habits=1&habits.from=200&base.indepth=true)

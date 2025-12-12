@@ -90,12 +90,12 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
       <!-- Dark mode -->
       <source 
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&bg_color=00000000&hide_border=true&area=true&radius=12"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&bg_color=00000000&hide_border=false&area=true&radius=12"
       />
       <!-- Light mode -->
       <source 
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=default&hide_border=true&area=true&radius=12"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=default&hide_border=false&area=true&radius=12"
       />
       <!-- Default fallback -->
       <img 

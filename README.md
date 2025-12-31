@@ -12,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitishkr.fun-8B5CF6?style=flat-square)](https://nitishkr.fun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nk2552003-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nk2552003/)
-[![CodePen](https://img.shields.io/badge/CodePen-Active-000?style=flat-square&logo=codepen)](https://codepen.io/rlaqxvbr-the-bashful)
+[![CodePen](https://img.shields.io/badge/CodePen-Active-000?style=flat-square&logo=codepen)](https://codepen.io/nk2552003)
 
 </div>
 

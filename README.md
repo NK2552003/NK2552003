@@ -17,7 +17,7 @@
 <!-- Trophies - Primary -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=discord&no-frame=true&no-bg=true&row=1&column=8&margin-w=10"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=discord&no-frame=true&no-bg=true&row=1&column=8&margin-w=4"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=flat&no-frame=true&row=1&column=7&margin-w=10"/>
     <img src="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
   </picture>

@@ -23,7 +23,7 @@
 <!-- Trophies - Primary -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=discord&no-frame=true&no-bg=true&row=1&column=8&margin-w=10"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=flat&no-frame=true&row=1&column=7&margin-w=10"/>
     <img src="https://github-profile-trophy.vercel.app/?username=NK2552003&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
   </picture>
@@ -67,40 +67,3 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats:
-<p align="center">
-  <a href="https://github.com/nk2552003">
-    <picture>
-      <!-- Dark mode -->
-      <source 
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&bg_color=00000000&hide_border=true&area=true&radius=12"
-      />
-      <!-- Light mode -->
-      <source 
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=default&hide_border=true&area=true&radius=12"
-      />
-      <!-- Default fallback -->
-      <img 
-        width="100%" 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=nk2552003&theme=react-dark&bg_color=00000000&hide_border=true&area=true&radius=12" 
-        alt="Contribution Graph"
-      />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/nk2552003">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical&bg_color=00000000&card_width=450&border_radius=12"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=default&card_width=450&border_radius=12"/>
-      <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=nk2552003&show_icons=true&locale=en&theme=radical&bg_color=00000000&card_width=450&border_radius=12" alt="nk2552003"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&langs_count=8&card_width=450&border_radius=12"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=default&langs_count=8&card_width=450&border_radius=12"/>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk2552003&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&langs_count=8&card_width=450&border_radius=12" alt="nk2552003"/>
-    </picture>
-  </a>
-</p>

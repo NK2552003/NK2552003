@@ -1,20 +1,14 @@
 <div align="right">
 
-![Visitors](https://komarev.com/ghpvc/?username=NK2552003&style=flat-square&color=8B5CF6)
-![Followers](https://img.shields.io/github/followers/NK2552003?style=flat-square&color=06B6D4)
-![Stars](https://img.shields.io/github/stars/NK2552003?style=flat-square&color=FF6B6B)
-</div>
-
-<div align="center">
-
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:8B5CF6,100:06B6D4&height=200&section=header&text=Nitish%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Builder%20%7C%20Creative%20Coder&descSize=18&descAlignY=55&fontAlign=50&descAlign=50" width="100%" alt="Header"/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitishkr.fun-8B5CF6?style=flat-square)](https://nitishkr.fun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nk2552003-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nk2552003/)
 [![CodePen](https://img.shields.io/badge/CodePen-Active-000?style=flat-square&logo=codepen)](https://codepen.io/nk2552003)
+![Visitors](https://komarev.com/ghpvc/?username=NK2552003&style=flat-square&color=8B5CF6)
+![Followers](https://img.shields.io/github/followers/NK2552003?style=flat-square&color=06B6D4)
+![Stars](https://img.shields.io/github/stars/NK2552003?style=flat-square&color=FF6B6B)
 
 </div>
+
 
 ---
 

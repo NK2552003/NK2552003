@@ -8,7 +8,7 @@
 [![UIverse](https://img.shields.io/badge/UIverse-Creator-6366F1?style=flat-square)](https://uiverse.io/profile/NK2552003)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-Profile-05CC47?style=flat-square&logo=deviantart)](https://www.deviantart.com/sidkr222003)
 [![YouPic](https://img.shields.io/badge/YouPic-Photography-000000?style=flat-square)](https://youpic.com/nitish)
-[![Instagram](https://img.shields.io/badge/Instagram-nk2552003-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/nk2552003/)
+[![Instagram](https://img.shields.io/badge/Instagram-nk2552003-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/natur_hacks)
 ![Visitors](https://komarev.com/ghpvc/?username=NK2552003&style=flat-square&color=8B5CF6)
 ![Followers](https://img.shields.io/github/followers/NK2552003?style=flat-square&color=06B6D4)
 ![Stars](https://img.shields.io/github/stars/NK2552003?style=flat-square&color=FF6B6B)

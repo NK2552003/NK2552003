@@ -35,10 +35,12 @@
 
 Full Stack Developer based in **Dehradun, India** with a focus on building developer tools and interactive web experiences. Currently working on CLI applications, browser extensions, and exploring 3D web technologies.
 
-**Current Work**
-- Developing [ULTIMATE-MEDIA-DOWNLOADER](https://github.com/NK2552003/ULTIMATE-MEDIA-DOWNLOADER) — CLI tool supporting 1000+ platforms
-- Building [Select2AI Extension](https://github.com/NK2552003/Select2AI_Extension) — Browser extension for AI-powered text analysis
 
+**Current Work**
+- Developing [ULTIMATE-MEDIA-DOWNLOADER](https://github.com/NK2552003/ULTIMATE-MEDIA-DOWNLOADER) — CLI tool supporting 1000+ platforms  
+- Building [Select2AI Extension](https://github.com/NK2552003/Select2AI_Extension) — Browser extension for AI-powered text analysis  
+- Creating [Iconoodle](https://nk2552003.github.io/Iconoodle/) — Interactive icon exploration tool 
+- Publishing [Big Data Survival Guide](https://nk2552003.github.io/Big-Data-Survival-Guide/) — Big Data Analytics notes site 
 
 ---
 

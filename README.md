@@ -1,4 +1,3 @@
-
 <div align="right">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitishkr.fun-8B5CF6?style=flat-square)](https://nitishkr.fun)
@@ -41,6 +40,7 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 - Building [Select2AI Extension](https://github.com/NK2552003/Select2AI_Extension) — Browser extension for AI-powered text analysis  
 - Creating [Iconoodle](https://nk2552003.github.io/Iconoodle/) — Interactive icon exploration tool 
 - Publishing [Big Data Survival Guide](https://nk2552003.github.io/Big-Data-Survival-Guide/) — Big Data Analytics notes site 
+- Designing [Forest Ash Theme](https://github.com/NK2552003/Forest-Ash-Theme-VS-Code-) — VS Code extension with 21 eye-friendly color themes inspired by forest ash textures and anime mood boards
 
 ---
 
@@ -68,4 +68,3 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-

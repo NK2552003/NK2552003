@@ -36,11 +36,11 @@ Full Stack Developer based in **Dehradun, India** with a focus on building devel
 
 
 **Current Work**
-- Developing [ULTIMATE-MEDIA-DOWNLOADER](https://github.com/NK2552003/ULTIMATE-MEDIA-DOWNLOADER) — CLI tool supporting 1000+ platforms  
+- Developing [ULTIMATE-MEDIA-DOWNLOADER](https://codeberg.org/nk2552003/umd) — CLI tool supporting 1000+ platforms  
 - Building [Select2AI Extension](https://github.com/NK2552003/Select2AI_Extension) — Browser extension for AI-powered text analysis  
 - Creating [Iconoodle](https://nk2552003.github.io/Iconoodle/) — Interactive icon exploration tool 
 - Publishing [Big Data Survival Guide](https://nk2552003.github.io/Big-Data-Survival-Guide/) — Big Data Analytics notes site 
-- Designing [Forest Ash Theme](https://github.com/NK2552003/Forest-Ash-Theme-VS-Code-) — VS Code extension with 21 eye-friendly color themes inspired by forest ash textures and anime mood boards
+- Designing [Forest Ash Theme](https://github.com/sidkr222003/Forest-Ash-Theme) — VS Code extension with 21 eye-friendly color themes inspired by forest ash textures and anime mood boards
 
 ---
 

@@ -32,15 +32,64 @@
 
 ---
 
-Full Stack Developer based in **Dehradun, India** with a focus on building developer tools and interactive web experiences. Currently working on CLI applications, browser extensions, and exploring 3D web technologies.
+Freelance Full Stack Developer based in **Dehradun, India** with a focus on building developer tools and interactive web experiences. I publish VS Code extensions, Flutter and Python packages, open-source CLI applications and browser extensions, and I design complete mobile app experiences in UI/UX.
 
 
 **Current Work**
-- Developing [ULTIMATE-MEDIA-DOWNLOADER](https://codeberg.org/nk2552003/umd) — CLI tool supporting 1000+ platforms  
-- Building [Select2AI Extension](https://github.com/NK2552003/Select2AI_Extension) — Browser extension for AI-powered text analysis  
-- Creating [Iconoodle](https://nk2552003.github.io/Iconoodle/) — Interactive icon exploration tool 
-- Publishing [Big Data Survival Guide](https://nk2552003.github.io/Big-Data-Survival-Guide/) — Big Data Analytics notes site 
-- Designing [Forest Ash Theme](https://github.com/sidkr222003/Forest-Ash-Theme) — VS Code extension with 21 eye-friendly color themes inspired by forest ash textures and anime mood boards
+- Developing [ULTIMATE-MEDIA-DOWNLOADER](https://ultimate-media-downloader.fun/) — Open-source CLI tool supporting 115+ platforms, with a documentation site and releases on [Codeberg](https://codeberg.org/nk2552003/umd)
+- Building [Select2AI Extension](https://github.com/NK2552003/Select2AI_Extension) — Browser extension for AI-powered text analysis
+- Curating [Student Offer Repository](https://github.com/NK2552003/Student-Offer-Repository) — Source-linked catalog of free software, student plans, credits and trials, with eligibility and billing notes
+
+---
+
+**Published Extensions and Packages**
+
+| Product | Platform | Description |
+| --- | --- | --- |
+| [FocusForge](https://marketplace.visualstudio.com/items?itemName=NK2552003.focusforge) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" align="absmiddle" alt="VS Code Marketplace" /> VS Code Marketplace | Local-first VS Code productivity dashboard for focus time, Pomodoro cycles, projects, GitHub issues, commits, planner sessions and reports |
+| [PasteShield](https://marketplace.visualstudio.com/items?itemName=NK2552003.pasteshield) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" align="absmiddle" alt="VS Code Marketplace" /> VS Code Marketplace | Intercepts every paste and catches API keys, hardcoded passwords and unsafe code patterns before they reach your file, fully offline |
+| [Forest Ash Theme](https://marketplace.visualstudio.com/items?itemName=NK2552003.forest-ash-theme-vscode) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" align="absmiddle" alt="VS Code Marketplace" /> VS Code Marketplace | 21 eye-friendly dark and light themes inspired by forest ash textures and anime mood boards |
+| [quiet_dock](https://pub.dev/packages/quiet_dock) | <img src="https://cdn.simpleicons.org/dart/0175C2" height="18" align="absmiddle" alt="pub.dev" /> pub.dev | Glassmorphic Flutter navigation dock with swipeable pages, quick actions and a responsive wide-screen rail |
+| [mac-deep-cleaner](https://pypi.org/project/mac-deep-cleaner/) | <img src="https://cdn.simpleicons.org/pypi/3775A9" height="18" align="absmiddle" alt="PyPI" /> PyPI | Python CLI for macOS cleanup with multiple safety layers and undo support |
+
+---
+
+**Websites**
+
+| Website | About | Visit |
+| --- | --- | --- |
+| Portfolio | Personal portfolio | [![Portfolio](https://img.shields.io/badge/nitishkr.fun-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://nitishkr.fun) |
+| Ultimate Media Downloader | Website, documentation and changelog for the open-source media downloader CLI | [![Ultimate Media Downloader](https://img.shields.io/badge/ultimate--media--downloader.fun-3A3A38?style=flat-square&logo=googlechrome&logoColor=white)](https://ultimate-media-downloader.fun/) |
+| UMD Source | Source code and releases for Ultimate Media Downloader | [![UMD Source](https://img.shields.io/badge/codeberg.org%2Fnk2552003%2Fumd-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/nk2552003/umd) |
+| Iconoodle | Hand-drawn SVG doodles, illustrations and icon packs | [![Iconoodle](https://img.shields.io/badge/nk2552003.github.io%2FIconoodle-222222?style=flat-square&logo=github&logoColor=white)](https://nk2552003.github.io/Iconoodle/) |
+| Big Data Survival Guide | Big Data Analytics course materials covering theory, practicals, Hadoop and Spark | [![Big Data Survival Guide](https://img.shields.io/badge/nk2552003.github.io%2FBig--Data--Survival--Guide-222222?style=flat-square&logo=github&logoColor=white)](https://nk2552003.github.io/Big-Data-Survival-Guide/) |
+| BlissCampIndia | Travel and camping website for Nepal and India | [![BlissCampIndia](https://img.shields.io/badge/nk2552003.github.io%2FBlissCampIndia-222222?style=flat-square&logo=github&logoColor=white)](https://nk2552003.github.io/BlissCampIndia/) |
+
+---
+
+**Achievements**
+
+| Award | Recognition | Entry |
+| --- | --- | --- |
+| [WD Awards](https://wdawards.com/web/an-interactive-dev-portfolio) | Nominee, Portfolio category (January 2026) | An Interactive Dev Portfolio — [nitishkr.fun](https://nitishkr.fun) |
+| [Astonishing Awards](https://astonishingawards.com/nominee/nitish-portfolio/) | Nominee | Nitish Portfolio — [nitishkr.fun](https://nitishkr.fun) |
+
+---
+
+**Completed Projects**
+- Two full stack web development projects, delivered end to end from database design to deployment
+- A complete UI/UX design for a mobile app, covering 300+ screens, user flows and a full design system
+- [QuietNote](https://github.com/NK2552003/QuietNote) — Offline-first Flutter app, a calm private space for notes, plans, reflection and focused work
+- [Iconoodle](https://nk2552003.github.io/Iconoodle/) — Next.js and TypeScript library of hand-drawn SVG doodles, illustrations and icon packs
+- [brew-why](https://github.com/NK2552003/brew-why) — Python CLI and Textual dashboard to explore your Homebrew dependency graph and clean up orphaned packages
+- [Big Data Survival Guide](https://nk2552003.github.io/Big-Data-Survival-Guide/) — Big Data Analytics course materials covering theory, practicals, Hadoop and Spark
+
+**More Projects**
+- [CODEPENS](https://github.com/NK2552003/CODEPENS) — Web projects, UI/UX experiments and creative animations in HTML, CSS and JavaScript
+- [Intern2Earn](https://github.com/NK2552003/Intern2Earn) — TypeScript project
+- [MINDROUTE Documentation](https://github.com/NK2552003/MINDROUTE_DOCUMENTATION) — Guide to building your own AI roadmap generator
+- [BlissCampIndia](https://nk2552003.github.io/BlissCampIndia/) — Travel and camping website for Nepal and India in pure HTML, CSS and JavaScript
+- [Civic Link](https://github.com/NK2552003/Civic_Link) — Website for community interaction
 
 ---
 

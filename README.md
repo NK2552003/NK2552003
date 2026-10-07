@@ -1,5 +1,6 @@
 <div align="right">
 
+[![Astonishing Awards](https://img.shields.io/badge/Astonishing_Awards-Project_Of_The_Day-F59E0B?style=flat-square)](https://astonishingawards.com/nominee/nitish-portfolio/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitishkr.fun-8B5CF6?style=flat-square)](https://nitishkr.fun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nk2552003-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nk2552003/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-nk2552003-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/nk2552003)
@@ -71,8 +72,8 @@ Freelance Full Stack Developer based in **Dehradun, India** with a focus on buil
 
 | Award | Recognition | Entry |
 | --- | --- | --- |
+| [Astonishing Awards](https://astonishingawards.com/nominee/nitish-portfolio/) | 🏆 **Project Of The Day** (October 7, 2026) | Nitish Portfolio — [nitishkr.fun](https://nitishkr.fun) |
 | [WD Awards](https://wdawards.com/web/an-interactive-dev-portfolio) | Nominee, Portfolio category (January 2026) | An Interactive Dev Portfolio — [nitishkr.fun](https://nitishkr.fun) |
-| [Astonishing Awards](https://astonishingawards.com/nominee/nitish-portfolio/) | Nominee | Nitish Portfolio — [nitishkr.fun](https://nitishkr.fun) |
 
 ---
 
